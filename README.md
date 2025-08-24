@@ -18,6 +18,6 @@ A medium-level network deisgned for Fujitsu, connecting two hypothetical branche
 
 ## Screenshot
 
-![Network Topology](Fujitsu-Network.png)
+![Network Topology](FujitsuNetwork.png)
 
   
